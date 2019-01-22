@@ -3,4 +3,5 @@
 <ol>
 <li>Первое задание сдал. <a href="https://github.com/helldone1/work/blob/master/hw01_easy.py">Тыц</a></li>
 <li>Второе задание сдал. <a href="https://github.com/helldone1/work/blob/master/hw02_easy.py">Тыц</a></li>
+<li>Третье задание сдал. <a href="https://github.com/helldone1/work/blob/master/hw03_easy.py">Тыц</a></li>
 </ol>
