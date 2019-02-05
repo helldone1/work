@@ -6,6 +6,9 @@
 <li>Третье задание сдал. <a href="https://github.com/helldone1/work/blob/master/hw03_easy.py">Тыц</a></li>
 <li>Четвертое задание сдал. <a href="https://github.com/helldone1/work/blob/master/hw04_easy.py">Тыц</a></li>
 <li>Пятое задание сдал. <a href="https://github.com/helldone1/work/blob/master/hw05_easy.py">Тыц</a></li>
+<li>Шестое задание сдал. <a href="https://github.com/helldone1/work/blob/master/hw06_easy.py">Тыц</a></li>
+  
+
   
   
 </ol>
